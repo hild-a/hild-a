@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hild-a
-- 👀 I’m interested in sitcoms with laugh tracks
+- 👀 I’m interested in video games, running, snowboarding, and reading (pls recomend me books)
 - 🌱 I’m currently working on a compsci degree
-- 💞️ I’m looking to collaborate on sitcoms with laugh tracks
-- 📫 How to reach me on discord-> hilda_0101
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: The average cloud weighs one million pounds
+- 📫 How to reach me-> discord-> hilda_0101
+- ⚡ Fun fact: If you exhale eventually, after a period of time, you will have to inhale.
 
 <!---
 hild-a/hild-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
